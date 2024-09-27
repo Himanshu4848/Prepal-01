@@ -85,14 +85,3 @@ The back-end of PREPPAL uses several data models and database schemas to manage 
 - **Instructor Schema:** Includes fields such as name, email, password, and course details for each instructor.
 - **Course Schema:** Includes fields such as course name, description, instructor details, and media content.
 
-### Database
-
-The database for the platform is built using MongoDB, a NoSQL database that provides a flexible and scalable data storage solution. MongoDB allows for the storage of unstructured and semi-structured data. The database stores the course content, user data, and other relevant information related to the platform.
-
-![Database Schema](img/schema.png)
-
-### Architecture Diagram
-
-Below is a high-level diagram that illustrates the architecture of the PREPPAL EdTech platform:
-
-![Architecture](img/arcti.png)
